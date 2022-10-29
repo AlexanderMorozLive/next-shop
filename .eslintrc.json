@@ -1,3 +1,3 @@
-{
+git commit -m "first commit"{
   "extends": "next/core-web-vitals"
 }
